@@ -1,31 +1,38 @@
 # Oleg Izosimov — Art Director & Design Group Lead
-> Portfolio website of Oleg Izosimov, a senior art director and design group lead specializing in brand systems, rebranding, digital campaigns, and creative direction.
+> Portfolio website of Oleg Izosimov, a senior art director and design group lead specializing in brand systems, rebranding, digital campaigns, and creative direction. Award-winning creative: Cannes Lions Gold, D&AD, Epica, AD Stars, Red Apple, Eurobest.
 
 ## About
-Oleg Izosimov is a Russian art director and head of design group with 7+ years of experience in brand design, rebranding, and creative direction. He has led major projects for M.Video-Eldorado (Russia's largest electronics retailer), Libertex/Forex Club (international fintech), and FC Zenit (Russian Premier League football club). His work spans brand identity systems, digital campaigns, merchandise design, and integrated marketing campaigns.
+Oleg Izosimov is a Russian art director and head of design group with 7+ years of experience in brand design, rebranding, and creative direction. He has led major projects for M.Video-Eldorado (Russia's largest electronics retailer), an international fintech company (2021-2023), and FC Zenit (Russian Premier League football club). His work spans brand identity systems, digital campaigns, merchandise design, and integrated marketing campaigns. Oleg is also skilled in vibe-coding websites.
+
+## Awards & Recognition
+- D&AD
+- Cannes Lions Gold
+- AD Stars
+- Red Apple
+- Epica
+- Eurobest
+- ADCR jury member
+- MAD Stars 2026 judge
+
+## Education & Thought Leadership
+- Course author: "Creating an Advertising Campaign: Strategy, Creative, Evaluation" (Netology)
+- Podcast host: "Idea Fire" (Идея Огонь) — 7 episodes on advertising and creativity (2019)
 
 ## Key Projects
 - **M.Video-Eldorado Brandbook (2023-2024)**: First rebrand in 30 years for Russia's largest electronics retailer. Developed a unified visual system for two brands within one ecosystem.
-- **M.Video App Icons (2025)**: Updated brand colors and refined logo variant for mobile applications.
-- **M.Video Skupidon Campaign (2025)**: Federal Valentine's Day campaign featuring Prokhor Shalyapin. Key visual and pose variations.
-- **M.Video POPOLAM Campaign (2025)**: First federal brand campaign with AI-generated mascot and OLV video created using neural networks.
-- **M.Video Merch (2023)**: Merchandise concept and design worn by influencers Wylsacom and Ruzil Minnekaev.
-- **Libertex / Forex Club (2021-2023)**: Creative direction for the Forex Club group of companies. Brandbook, 3D illustrations, advertising campaigns including Epic Dog Brawl, Beat the Bank, and Tame Inflation.
-- **FC Zenit — This Is All You (2022)**: Stop-motion music video from 20,000 photographs for Zenit FC x Karan Singh lifestyle collection. Published on RBC.
+- **M.Video App Icons (2025)**: Updated brand colors and refined logo variant for mobile applications across the M.Video ecosystem.
+- **M.Video Skupidon Campaign (2025)**: Digital campaign concept featuring a fictional folklore character, integrating brand identity with cultural storytelling.
+- **M.Video POPOLAM Campaign (2025)**: AI-powered federal advertising campaign using neural networks to generate key visuals and creative assets.
+- **M.Video Merchandise (2023)**: Branded merchandise collection design, including apparel and accessories for corporate identity.
+- **International Fintech Platform (2021-2023)**: Creative direction for a major international fintech company. Managed design across branding, digital campaigns, motion design, social media, and product visuals.
+- **FC Zenit — This Is All You (2022)**: Integrated campaign for FC Zenit featuring a stop-motion clip by Karan Singh, composed of 20,000 photographs. Cannes Lions Gold 2017 for a previous BMW collaboration is also in the portfolio.
 
 ## Expertise
-- Brand systems & visual identity
-- Art direction & creative direction
-- Rebranding & brand strategy
-- Digital campaigns & advertising
-- Merchandise & product design
-- Integrated marketing campaigns
-- AI-assisted design & neural network campaigns
+Brand systems, visual identity, art direction, rebranding, digital campaigns, creative direction, merchandise design, integrated marketing, AI-generated creatives, motion design, vibe-coding websites
 
 ## Contact
 - Website: https://olegizosimov.com
+- Telegram: @olegizosimov
 
 ## Links
-- Portfolio: https://olegizosimov.com/#cases
-- About: https://olegizosimov.com/#about
-- Experience: https://olegizosimov.com/#experience
+- GitHub: https://github.com/OleAle1/olegizosimov.com
