@@ -600,4 +600,36 @@ function closeMobile() {
 }
 
 </script>
+
+<script>
+(function() {
+  var blocked = ['AR','ME','RS','DE','MK','AL','CY','GE','AM','KZ'];
+  var chars = '▓░█▒▀▄╔╗╚╝║═╠╣╦╩╬▌▐';
+  function scramble(node) {
+    if (node.nodeType === 3) {
+      node.nodeValue = node.nodeValue.replace(/\S/g, function() {
+        return chars[Math.floor(Math.random() * chars.length)];
+      });
+    } else if (node.childNodes) {
+      for (var i = 0; i < node.childNodes.length; i++) {
+        if (node.childNodes[i].nodeName !== 'SCRIPT' && node.childNodes[i].nodeName !== 'STYLE') {
+          scramble(node.childNodes[i]);
+        }
+      }
+    }
+  }
+  fetch('https://ipapi.co/json/')
+    .then(function(r) { return r.json(); })
+    .then(function(d) {
+      if (blocked.indexOf(d.country_code) !== -1) {
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', function() { scramble(document.body); });
+        } else {
+          scramble(document.body);
+        }
+      }
+    })
+    .catch(function(){});
+})();
+</script>
 </body></html>
