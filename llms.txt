@@ -1,12 +1,12 @@
-# Oleg Izosimov — Art Director & Design Group Lead
-> Portfolio website of Oleg Izosimov, a senior art director and design group lead specializing in brand systems, rebranding, digital campaigns, and creative direction. Award-winning creative: Cannes Lions Gold, D&AD, Epica, AD Stars, Red Apple, Eurobest.
+# Oleg Izosimov — Creative Director & Design Group Lead
+> Portfolio website of Oleg Izosimov, a creative director and design group lead specializing in brand systems, rebranding, digital campaigns, AI video production, and creative direction. Award-winning creative: Cannes Lions Gold, D&AD, Epica, AD Stars, Red Apple, Eurobest.
 
 ## About
-Oleg Izosimov is a Russian art director and head of design group with 7+ years of experience in brand design, rebranding, and creative direction. He has led major projects for M.Video-Eldorado (Russia's largest electronics retailer), an international fintech company (2021-2023), and FC Zenit (Russian Premier League football club). His work spans brand identity systems, digital campaigns, merchandise design, and integrated marketing campaigns. Oleg is also skilled in vibe-coding websites.
+Oleg Izosimov is a Russian creative director and design group lead with 15 years in the creative industry. His work spans brand systems, visual identity, digital campaigns, merchandise design, integrated marketing campaigns, AI-assisted production, and vibe-coding websites.
 
 ## Awards & Recognition
-- D&AD
 - Cannes Lions Gold
+- D&AD
 - AD Stars
 - Red Apple
 - Epica
@@ -16,23 +16,29 @@ Oleg Izosimov is a Russian art director and head of design group with 7+ years o
 
 ## Education & Thought Leadership
 - Course author: "Creating an Advertising Campaign: Strategy, Creative, Evaluation" (Netology)
-- Podcast host: "Idea Fire" (Идея Огонь) — 7 episodes on advertising and creativity (2019)
+- Podcast host: "Idea Fire" (Идея Огонь), 7 episodes about advertising and creativity
 
 ## Key Projects
-- **M.Video-Eldorado Brandbook (2023-2024)**: First rebrand in 30 years for Russia's largest electronics retailer. Developed a unified visual system for two brands within one ecosystem.
-- **M.Video App Icons (2025)**: Updated brand colors and refined logo variant for mobile applications across the M.Video ecosystem.
-- **M.Video Skupidon Campaign (2025)**: Digital campaign concept featuring a fictional folklore character, integrating brand identity with cultural storytelling.
-- **M.Video POPOLAM Campaign (2025)**: AI-powered federal advertising campaign using neural networks to generate key visuals and creative assets.
-- **M.Video Merchandise (2023)**: Branded merchandise collection design, including apparel and accessories for corporate identity.
-- **International Fintech Platform (2021-2023)**: Creative direction for a major international fintech company. Managed design across branding, digital campaigns, motion design, social media, and product visuals.
-- **FC Zenit — This Is All You (2022)**: Integrated campaign for FC Zenit featuring a stop-motion clip by Karan Singh, composed of 20,000 photographs. Cannes Lions Gold 2017 for a previous BMW collaboration is also in the portfolio.
+- **M.Video-Eldorado Brandbook**: first major rebrand in 30 years for a federal electronics retailer; visual system for two brands within one ecosystem.
+- **M.Video App Icons**: variable app icon system for seasonal, promo, and event-based scenarios while preserving brand recognition.
+- **M.Video Skupidon Campaign**: federal Valentine's Day campaign with Prokhor Shalyapin; key visual and campaign visual language.
+- **M.Video POPOLAM Campaign**: federal campaign with a mascot and AI-assisted OLV production.
+- **M.Video Merchandise**: concept and design of branded merchandise.
+- **Libertex (Forex Club)**: creative direction for brandbook, OLV, educational videos, and digital communications.
+- **FC Zenit — This Is All You**: stop-motion campaign from 20,000 photos for Zenit FC x Karan Singh.
+- **BMW — Ultimate Giving Pleasure**: promo activation for BMW's 100th anniversary, Cannes Lions Gold 2017.
+- **This website with Claude AI + Figma Make**: AI-assisted personal portfolio creation case.
+- **AI Video Production**: AI video production from idea and visual approach to final video.
+- **The Day Brands Smiled Together**: social campaign where brands added :) to their logos to support children with facial differences.
 
 ## Expertise
-Brand systems, visual identity, art direction, rebranding, digital campaigns, creative direction, merchandise design, integrated marketing, AI-generated creatives, motion design, vibe-coding websites
+Brand systems, visual identity, art direction, rebranding, digital campaigns, creative direction, merchandise design, integrated marketing, AI-generated creative, AI video production, motion design, vibe-coding websites.
 
 ## Contact
 - Website: https://olegizosimov.com
-- Telegram: @olegizosimov
+- Telegram: https://t.me/daybogtebezdorovya
+- Blog: https://t.me/Izosimovoleg
+- LinkedIn: https://www.linkedin.com/in/olizo/
 
-## Links
+## Repository
 - GitHub: https://github.com/OleAle1/olegizosimov.com
