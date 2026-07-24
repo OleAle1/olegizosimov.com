@@ -508,6 +508,7 @@ function Ze() {
             {
               onClick: () => t(!c),
               className: "md:hidden p-2 text-[#F5F5F5]",
+              "aria-label": c ? "Закрыть меню" : "Открыть меню",
               children: c ? /* @__PURE__ */ e(P, { size: 24 }) : /* @__PURE__ */ e(Ae, { size: 24 })
             }
           )
@@ -605,6 +606,8 @@ function We() {
       {
         src: V,
         alt: "Олег Изосимов",
+        decoding: "async",
+        fetchPriority: "high",
         className: "w-full h-full object-cover"
       }
     ) }) })
@@ -1162,6 +1165,12 @@ function zt() {
           "div",
           {
             onClick: () => W(a, n),
+            onKeyDown: (s) => {
+              (s.key === "Enter" || s.key === " ") && (s.preventDefault(), W(a, n));
+            },
+            role: "button",
+            tabIndex: 0,
+            "aria-label": `Открыть кейс: ${a.title}`,
             className: `group cursor-pointer transition-all duration-700 ${i ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`,
             style: { transitionDelay: `${n * 100}ms` },
             children: [
@@ -1171,6 +1180,8 @@ function zt() {
                   {
                     src: a.image,
                     alt: a.title,
+                    loading: "lazy",
+                    decoding: "async",
                     className: "case-image w-full h-full object-cover transition-transform duration-700 ease-out"
                   }
                 ),
