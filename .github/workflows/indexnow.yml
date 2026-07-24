@@ -1,0 +1,22 @@
+name: Notify IndexNow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Submit updated page to IndexNow
+        run: |
+          status=$(curl --silent --show-error --output /tmp/indexnow-response --write-out "%{http_code}" \
+            --request POST "https://api.indexnow.org/indexnow" \
+            --header "Content-Type: application/json; charset=utf-8" \
+            --data '{"host":"olegizosimov.com","key":"0770a33775f74d2db840e31e99d4873c","keyLocation":"https://olegizosimov.com/0770a33775f74d2db840e31e99d4873c.txt","urlList":["https://olegizosimov.com/"]}')
+          cat /tmp/indexnow-response
+          test "$status" = "200" -o "$status" = "202"
