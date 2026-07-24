@@ -1540,7 +1540,7 @@ const O = [
   }
 };
 function Dt() {
-  const o = N(null), [i, c] = p(!1);
+  const o = N(null), [i, c] = p(!0);
   return f(() => {
     const t = new IntersectionObserver(
       ([s]) => {
